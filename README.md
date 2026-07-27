@@ -1,3 +1,3 @@
 # New project 
 
-This project was created in local systemg created by akshra.
+This project was created in local system created by akshra.
